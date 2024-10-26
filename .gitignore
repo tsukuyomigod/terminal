@@ -1,0 +1,19 @@
+#c++ files
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dSYM/
+*.out
+
+#IDE files
+.vscode/
+*.swp
+
+#MAKE files
+makefile
+
+#Binaries
+/build/
+/bin/
